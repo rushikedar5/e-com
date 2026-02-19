@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:8000/api/v1",  // ✅ FIXED
+  baseURL: "https://e-com-5-ted0.onrender.com/api/v1",  // ✅ FIXED
 });
 
 axiosInstance.interceptors.request.use((config) => {
