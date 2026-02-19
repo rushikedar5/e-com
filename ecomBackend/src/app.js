@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(cors({
   origin: [
     "http://localhost:3000",
-    "https://your-frontend.vercel.app"
+    "https://e-aydkl2q3l-hrushikesh-kedars-projects.vercel.app/"
   ],
   credentials: true
 }));
