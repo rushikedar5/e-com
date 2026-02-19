@@ -219,7 +219,7 @@ VITE_API_URL=https://your-backend-url/api/v1
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author - Hrushikesh Kedar
 
 Built as a production-level learning project to master:
 
