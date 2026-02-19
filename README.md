@@ -1,5 +1,4 @@
 # 🛒 E-Commerce Full Stack Application
-LINK - e-com-rk.vercel.app
 
 A production-ready E-Commerce web application built with modern backend and frontend architecture principles.
 
